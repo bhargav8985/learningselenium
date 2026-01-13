@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Vimo Test Suite">
+    <listeners>
+        <listener class-name="io.qameta.allure.testng.AllureTestNg"/>
+    </listeners>
+    <test name="Smoke Tests">
+        <classes>
+            <class name="com.vimo.test.hp.HomePageTest1"/>
+            <class name="com.vimo.test.nav.AiPageTest"/>
+            <class name="com.vimo.test.nav.MedicaidExpressPageTest"/>
+        </classes>
+    </test>
+
+</suite>

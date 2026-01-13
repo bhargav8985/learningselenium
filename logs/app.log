@@ -1,0 +1,10 @@
+
+2026-01-13 21:24:21 [main] INFO  LoggerManager - Loading config file
+2026-01-13 21:24:21 [main] INFO  LoggerManager - Initializing browser: chrome
+2026-01-13 21:24:27 [main] INFO  LoggerManager - clickHr method is running
+2026-01-13 21:24:28 [main] INFO  LoggerManager - Applied the border with color green to element: Element with text: H.R. 1
+2026-01-13 21:24:30 [main] INFO  LoggerManager - Clicked element: By.xpath: //ul[@id='menu-main']//a[text()='H.R. 1']
+2026-01-13 21:24:30 [main] INFO  LoggerManager - Current URL: https://www.vimo.com/h-r-1-what-state-agencies-need-to-know-now/
+2026-01-13 21:24:30 [main] INFO  LoggerManager - Waiting for URL to contain: h-r-1-what-state-agencies-need-to-know-now/
+2026-01-13 21:24:30 [main] INFO  LoggerManager - Checking if element is displayed: By.tagName: h1
+2026-01-13 21:24:30 [main] INFO  LoggerManager - Tearing down
